@@ -12,4 +12,4 @@ This is a post with executable code.
 1 + 1
 ```
 
-Does LaTeX render? $\chi^2$
+Does LaTeX render? $\chi^2$ Pretty cool.

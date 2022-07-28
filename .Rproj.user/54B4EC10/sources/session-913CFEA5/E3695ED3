@@ -1,6 +1,6 @@
 {
     "id": "E3695ED3",
-    "path": "~/Documents/GitHub/cocuts-blog/posts/post-with-code/index.qmd",
+    "path": "~/Documents/GitHub/cocuts/posts/post-with-code/index.qmd",
     "project_path": "posts/post-with-code/index.qmd",
     "type": "quarto_markdown",
     "hash": "0",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "208:0",
-        "cursorPosition": "10,0",
+        "rmdVisualModeLocation": "221:0",
+        "cursorPosition": "14,40",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658978526,
+    "lastKnownWriteTime": 1658980917,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658978526128,
+    "last_content_update": 1658980917999,
     "read_only": false,
     "read_only_alternatives": []
 }

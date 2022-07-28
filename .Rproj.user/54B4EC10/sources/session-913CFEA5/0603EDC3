@@ -1,9 +1,9 @@
 {
     "id": "0603EDC3",
-    "path": "~/Documents/GitHub/cocuts-blog/index.qmd",
+    "path": "~/Documents/GitHub/cocuts/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1909436493",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1658978369859.0,
@@ -18,7 +18,7 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "193:0"
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1658978448,
