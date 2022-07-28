@@ -2,17 +2,22 @@ project:
   type: website
 
 website:
-  title: "cocuts-blog"
+  title: "Cory Cutsail"
+  image: "img/logo.svg"
   navbar:
+    logo: logo.svg
+    title: false
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+    left:
+      - icon: "img/logo.svg"
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
 
 editor: visual

@@ -1,7 +1,7 @@
 {
-  "hash": "b68b0afa02124e7eb2dfac7f7f884450",
+  "hash": "1111d4d01df8b8a30523a0f44aedbda9",
   "result": {
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-07-27\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nDoes LaTeX render? $\\chi^2$\n",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-07-27\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nDoes LaTeX render? $\\chi^2$ Pretty cool.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

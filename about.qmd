@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.png
 about:
   template: jolla
   links:
@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+I'm Cory. I'm a senior data scientist in the operations management space interested in optimization and stochastic processes. In my spare time, I organize the [PhillyRUG](www.phillyrug.org). 
