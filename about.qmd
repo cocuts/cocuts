@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-I'm Cory. I'm a senior data scientist in the operations management space interested in optimization and stochastic processes. In my spare time, I organize the [PhillyRUG](www.phillyrug.org). 
+I'm Cory. I'm a senior data scientist in the operations management space interested in optimization and stochastic processes. In my spare time, I organize the [PhillyRUG](https://www.meetup.com/meetup-group-rfxisjyh/). 

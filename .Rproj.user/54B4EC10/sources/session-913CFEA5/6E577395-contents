@@ -10,9 +10,11 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/cocuts
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/cocuts_
+      - icon: book-open-reader
+        href: https://goodreads.com
     left:
       - icon: "img/logo.svg"
 format:
